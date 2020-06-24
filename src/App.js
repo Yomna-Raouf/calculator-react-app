@@ -43,7 +43,7 @@ const App = () => {
 
 
     return (
-        <div>
+        <div className="bg">
             <div className="calculator-body">
                 <h1>Simple Calculator</h1>
                 <ResultComponent result={result}/>
